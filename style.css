@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.bgr{
+    background-image: url(./pitcher/cover\ 1.jpg);
+    background-size: cover;
+    height: 500px;
+}
+
+.ab{
+    color: antiquewhite;
+    padding-left: 8%;
+    padding-top: 8%;
+}
+a.btn{
+    width: 150px;
+    border-radius: 3px;
+}
+.icon ul{
+list-style: none;
+display: flex;
+justify-content: center;
+}
+
+.ptt{
+    padding-top: 80px;
+}
+.ac{
+    background-image: url(./pitcher/ccc.png);
+    background-size: cover;
+    border-radius: 5px;
+    width: 220px;
+}
+.pdt{
+    padding-top: 100px;
+    padding-left: 5px;
+    
+}
+.bgrs{
+    background-color: #d0d2d3;
+}
+
+.butto .btn{
+   border: 1px  solid #0D6EFD;
+}
+
+
+.card{
+    border: 0;
+    margin-top: 5px;
+}
+.bttn a{
+    width: 150px;
+    border-radius: 3px;
+    text-align: center;
+
+}
+.bttn a .btn{
+  margin-left: 200px;
+}
+
+.bgra{
+    background-image: url(./pitcher/cover\ 2.jpg);
+    background-size: cover;
+    height: 400px;
+}
+.but a.btn{
+    border-radius: 20px;
+
+}
+.line ul li{
+    list-style: none;
+    display: flex;
+}
+.line ul li p{
+    padding-left: 15px;
+}
+.line ul li i{
+    font-size: x-large;
+    color: #0D6EFD;
+}
+.bgh{
+    background-color: #1C2A44;
+    height: 470px;
+}
+.ipd{
+    padding-left: 75px;
+}
+.bght{
+    background-color: #1C2A44;
+    height: 300px;
+}
+.foot{
+margin-top: 50px;
+}
+.bgtx{
+    background-color: #0D6EFD;
+    color: white;
+}
+
+
+
+
+
+
+@media (max-width: 375px) {
+    .custom-container {
+      max-width: 320px;
+    }
+}
+
+
+
+.bv{
+    background-color: #0082FA;
+}
+.hlr{
+    background-color: #1C2A44; 
+}
+.ajja{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.amaj{
+    display: flex;
+    justify-content: center;
+    margin-top:20px;
+}
+
+.ja .btn{
+    height: 30px;
+    width: 100px;
+}
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .search-box {
+    width: 100%;
+    max-width: 400px; /* Set maximum width to prevent stretching on larger screens */
+    position: relative;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #2F4773;
+  }
+  
+  .search-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    padding: 0 15px;
+   
+    color: #080808;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+  }
+  
+  /* Media query for responsiveness */
+  @media only screen and (max-width: 600px) {
+    .search-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
+  .input-container {
+    margin: 20px auto;
+    max-width: 400px; 
+  }
+
+
+
+
+
